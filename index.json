@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "title": { "en": "DSH Plugins by liush2yuxjtu", "zh": "DSH 插件集合" },
+  "description": { "en": "Community plugins for DeepSeek Harness, pinned to audited Git commits.", "zh": "面向 DeepSeek Harness 的社区插件，固定到经过检查的 Git 提交。" },
+  "plugins": [
+    {
+      "name": "dsh-sidebar-history",
+      "title": { "en": "DSH Sidebar History", "zh": "DSH 历史侧栏" },
+      "description": { "en": "Searchable session history with TODO progress and assistant summaries", "zh": "可搜索的会话历史、TODO 进度与助手摘要" },
+      "author": "liush2yuxjtu",
+      "homepage": "https://github.com/liush2yuxjtu/dsh-sidebar-history",
+      "repository": { "url": "https://github.com/liush2yuxjtu/dsh-sidebar-history" },
+      "versions": [{ "version": "0.2.1", "publishTimestamp": 1794309292, "source": { "type": "git", "url": "https://github.com/liush2yuxjtu/dsh-sidebar-history", "commit": "4787e0017422c1a16bfe546dedc1ee25464c697c" }, "engines": { "dsh": ">=0.2.2-rc.1 <0.3.0" }}]
+    },
+    {
+      "name": "dsh-slack",
+      "title": { "en": "DSH Slack-style Threads", "zh": "DSH Slack 风格会话" },
+      "description": { "en": "Independent conversations with persistent threads, summaries and TODO progress", "zh": "独立会话、持久 Thread、摘要与 TODO 进度" },
+      "author": "liush2yuxjtu",
+      "homepage": "https://github.com/liush2yuxjtu/dsh-slack",
+      "repository": { "url": "https://github.com/liush2yuxjtu/dsh-slack" },
+      "versions": [{ "version": "0.1.0", "publishTimestamp": 1794315361, "source": { "type": "git", "url": "https://github.com/liush2yuxjtu/dsh-slack", "commit": "f4bdad84fc93f4a48e0fd286a7d49bbf45d1c7bc" }, "engines": { "dsh": ">=0.2.2-rc.1 <0.3.0" }}]
+    }
+  ]
+}
