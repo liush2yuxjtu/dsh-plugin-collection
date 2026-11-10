@@ -18,7 +18,7 @@ DSH displays the pinned Git source and asks for confirmation before installation
 
 | Plugin | Function | Source | Tested repository baseline |
 | --- | --- | --- | --- |
-| [DSH Sidebar History](https://github.com/liush2yuxjtu/dsh-sidebar-history) | Session history, TODO and assistant previews | Git commit `4787e00` | v0.2.1; 37 tests and static checks PASS |
+| [DSH Sidebar History](https://github.com/liush2yuxjtu/dsh-sidebar-history) | Session history, TODO and assistant previews | Git commit `32bfc10` | v0.2.2; verified real E2E and OIDC release PASS |
 | [DSH Slack](https://github.com/liush2yuxjtu/dsh-slack) | Slack-style sessions and threads | Git commit `f4bdad8` | v0.1.0; 9 tests and static checks PASS |
 
 **Scope and limitations:** Tests above were rerun on 2026-11-10. They are not fresh real API acceptance of the index install path. The plugin README files provide prior real API media evidence. DSH Slack is **not** yet an `@deepseek` shared-channel chat bot; it is a threaded session UI. The `dsh-slack` npm name is already used by another publication, so this index deliberately uses a **Git** source, not npm.

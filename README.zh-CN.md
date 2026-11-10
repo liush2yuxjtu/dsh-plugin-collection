@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/liush2yuxjtu/dsh-plugin-collection/main/index.
 
 ## 当前插件
 
-- [DSH Sidebar History](https://github.com/liush2yuxjtu/dsh-sidebar-history)：会话历史搜索、TODO 进度、助手摘要。版本 0.2.1。
+- [DSH Sidebar History](https://github.com/liush2yuxjtu/dsh-sidebar-history)：会话历史搜索、TODO 进度、助手摘要。版本 0.2.2。
 - [DSH Slack](https://github.com/liush2yuxjtu/dsh-slack)：独立对话、Thread、TODO 和摘要。版本 0.1.0。它暂不提供共享频道的 `@deepseek` 触发功能。
 
 两项目的基础测试已复查，但通过此索引安装的实时 E2E 尚未验收。不得把旧真实 API 视频当作本次验收结果。发布前后检查流程见 [SKILL.md](skills/publish-dsh-plugin/SKILL.md)。
